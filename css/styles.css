@@ -8,13 +8,7 @@ body {font-family: 'Roboto',
     ul {list-style-type: none;}
 
 .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
     margin: -1px;
-    border: 0;
-    padding: 0;
-
     white-space: nowrap;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
@@ -114,7 +108,7 @@ body {font-family: 'Roboto',
 .principles-subtitle {color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;}
 
 .principles-text {color: #434455;
@@ -136,7 +130,7 @@ body {font-family: 'Roboto',
 .team-img {background: #FFFFFF}
 
 .team-subtitle {color: #2E2F42;
-    background-color: #FFF;
+    background-color: #FFFFFF;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
