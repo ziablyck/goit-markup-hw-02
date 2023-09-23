@@ -8,10 +8,6 @@ body {font-family: 'Roboto',
     ul {list-style-type: none;}
 
 .visually-hidden {
-    margin: -1px;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
     overflow: hidden;
 }
     
@@ -125,7 +121,7 @@ body {font-family: 'Roboto',
 
 .team-list {background-color: #FFFFFF;}
 
-.team-item {}
+.team-item {background-color: #FFFFFF;}
 
 .team-img {background: #FFFFFF}
 
